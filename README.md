@@ -1,7 +1,7 @@
 # About EmotionGPT
 Developed a therapy chatbot system with the help of OpenAl's APIs, HuggingFace Models and a Tensorflow Based ML model for Voice Emotion Detection
 <br /><br />
-# How to repliacte the project:
+# How to replicate the project:
 -Clone the repository <br /><br />
 -Upload it to your google drive, take note of the directory and make sure the model3.h5 Emotion model and .ipynb file are in the same folder.<br /><br />
 -Right click on the ```EmotionGPT.ipynb``` file and open it with google colab<br /><br />
