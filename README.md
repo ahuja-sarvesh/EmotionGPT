@@ -1,5 +1,5 @@
 # About EmotionGPT
-Developed a therapy chatbot system with the help of OpenAl's APIs, HuggingFace Models and a Tensorflow Based ML model for Voice Emotion Detection
+Developed a therapy chatbot system with the help of OpenAl's APIs, HuggingFace Model (Text To Speech) and a Tensorflow Based ML model for Voice Emotion Detection
 <br /><br />
 # How to replicate the project:
 -Clone the repository <br /><br />
